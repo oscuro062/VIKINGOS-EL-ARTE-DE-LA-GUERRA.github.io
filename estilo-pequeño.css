@@ -1,0 +1,55 @@
+@media (max-width: 768px)  {
+  .titulo {
+    height: 10vh;
+    clear: both;
+    position: relative;
+    font-size: xx-large;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: black;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  .contexto{
+    height: 5vh;
+    clear: both;
+    position: relative;
+    font-size: 25px;
+    text-align: center;
+  }
+  .columna1{
+    height: 35vh;
+    clear: both;
+    position: relative;
+    font-size: 25px;
+    background-color: pink;
+    margin: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  .columna2 {
+    height: 70vh;
+    clear: both;
+    position: relative;
+    background-color: grey;
+    font-size: 25px;
+    margin: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  .pie {
+    height: 5vh;
+    clear: both;
+    position: relative;
+    background-color: black;
+    color: white;
+    word-spacing: 20px;
+    margin: 10px;
+    text-align: center;
+    font-size: 26px;
+  }
+}

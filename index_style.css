@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu principal{ 
+width: 80px;
+margin-top: 50px;
+}
+
+#menu principal ul{
+    list-style: none;
+}
+
+#menu principal ul li{
+    margin-top: 15px;
+    font-family: Verdana;
+    font-size: 18px;
+    background-color: seagreen;
+    width: 100px;
+    padding: 10px;
+    padding-bottom: 10px;
+    border-radius: 0px 20px 20px 0px;
+    padding-left: 20px;
+    box-shadow: 5px 0px 10px #939393;
+    *-webkit-transition:padding-left 0.6s;
+    -moz-transition:padding-left 0.6s;
+    -o-transition:padding-left 0.6s;
+    color: white;
+    cursor: pointer;
+}
+
+#menu principal il li:hover{
+    padding-left: 50px;
+}
+/* En el archivo CSS externo */
+.mi-clase {
+    background-image: url('images/barco.jpg');
+}

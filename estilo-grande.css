@@ -1,0 +1,58 @@
+@media (min-width: 768px)  {
+    body {
+      background-color: aqua;
+      text-align: center;
+      font-size: large;
+    }
+    .titulo {
+      height: 10vh;
+      clear: both;
+      position: relative;
+      font-size: xx-large;
+      font-family: Helvetica;
+      font-weight: bold;
+      color: black;
+      margin: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+    .contexto{
+      height: 5vh;
+      clear: both;
+      position: relative;
+      margin: 10px;
+      padding-top: 10px;
+    }
+    .columna1 {
+      width: 45%;
+      height: 35vh;
+      float: left;
+      position: relative;
+      background-color: pink;
+      margin: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+    .columna2 {
+      width: 45%;
+      height: 70vh;
+      float: right;
+      position: relative;
+      background-color: grey;
+      margin: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+    .pie {
+      height: 5vh;
+      clear: both;
+      position: relative;
+      background-color: black;
+      color: white;
+      word-spacing: 20px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      padding-top: 10px;
+      padding-bottom: 5px;
+    }
+  }
